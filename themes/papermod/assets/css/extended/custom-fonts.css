@@ -1,0 +1,82 @@
+@font-face {
+    font-family: 'TilburgsAnsRegular';
+    src: url('/fonts/TilburgsAnsText-WEB/TilburgsAnsText-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TilburgsAnsBold';
+    src: url('/fonts/TilburgsAnsText-WEB/TilburgsAnsText-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TilburgsAnsLight';
+    src: url('/fonts/TilburgsAnsText-WEB/TilburgsAnsText-Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TilburgsAnsItalic';
+    src: url('/fonts/TilburgsAnsText-WEB/TilburgsAnsText-Italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TilburgsAnsIcons';
+    src: url('/fonts/TilburgsAnsIcons123-WEB/TilburgsAnsIcons123.woff2') format('woff2');
+}
+
+@media not speech {
+    body {
+        font-family: 'TilburgsAnsRegular';
+    }
+}
+
+@media screen and (min-width: 28em) {
+    body {
+        font-family: 'TilburgsAnsRegular';
+    }
+}
+
+@media screen and (min-width: 36em) {
+    body {
+        font-family: 'TilburgsAnsRegular';
+    }
+}
+
+@media screen and (min-width: 48em) {
+    body {
+        font-family: 'TilburgsAnsRegular';
+    }
+}
+
+@media screen and (min-width: 56em) {
+    body {
+        font-family: 'TilburgsAnsRegular';
+    }
+}
+
+@media screen and (min-width: 64em) {
+    body {
+        font-family: 'TilburgsAnsRegular';
+    }
+}
+
+.entry-footer,
+.footer,
+.post-meta {
+    font-size: .8em;
+}
+
+#menu a,
+.pagination a {
+    font-size: .9em;
+}
+
+.logo a {
+    font-size: 1.6em;
+}
+
+.archive-meta,
+.entry-content,
+.page-content,
+.page-footnote {
+    font-size: .9em;
+}
