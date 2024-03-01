@@ -10,7 +10,7 @@ series: [""]
 ShowToc: false
 TocOpen: false
 ---
-![Picture of certificate](/imgs/miles_ai_ethics/grassbot.jpg)
+![Picture of certificate]({{< baseurl >}}/imgs/miles_ai_ethics/grassbot.jpg)
 
 A very interesting video showing some of the ethical issues, you might run into when developing an AI super power.
 

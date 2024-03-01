@@ -16,4 +16,4 @@ I really like it. It takes away a lot of the hassle you encounter when measuring
 
 Take a look at the projectsite. https://www.indiegogo.com/projects/easy-temperature-and-humidity-for-raspberry-pi
 
-![Picture of certificate](/imgs/eztemp/eztemp.png)
+![Picture of certificate]({{< baseurl >}}/imgs/eztemp/eztemp.png)

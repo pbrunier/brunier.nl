@@ -19,5 +19,5 @@ I think I will put an XRF or XBee module on it, and keeping it as small as possi
 
 Added 1 Raspberry Zero to my stock of goodies.
 
-![Picture of certificate](/imgs/pi_zero_arrived/pizero.jpg)
+![Picture of certificate]({{< baseurl >}}/imgs/pi_zero_arrived/pizero.jpg)
 

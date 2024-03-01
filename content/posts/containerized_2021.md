@@ -21,5 +21,5 @@ Some of the containerized apps: Nextcloud, PostgreSQL, Django NGINX instances, J
 
 In the past years I managed to move all my business activities, both end user computing and my servers to Open Source , and therefore I don’t suffer from vendor lock-in. My bookkeeping and VAT also has to be done using Open Source software. I use GNU Cash for this, but I have to admit that is a pain. But hey. No pain no gain 😉
 
-![Image description](/imgs/docker_logo.png)
+![Image description]({{< baseurl >}}/imgs/docker_logo.png)
 {.pi_center}

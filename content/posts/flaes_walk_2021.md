@@ -18,17 +18,17 @@ The Helios is really soft when shooting long focal ranges, and the Zeiss shows s
 Getting to know these lenses is part of the vintage adventure. The A7 II itself shows itself to be a very nice camera. Although I will never use it to its full potential because of the manual lenses, the camera has a great image quality. The only downside until now, is the eyepiece of the EVF. I will replace this one with a bigger version. When it’s sunny, the piece isn’t able to shield your eye from the sun.
 
 **Zeiss Sollar 135mm**
-![Zeiss Sollar 135mm](/imgs/flaes_walk/flaes8.jpg (Zeiss Sollar 135mm))
+![Zeiss Sollar 135mm]({{< baseurl >}}/imgs/flaes_walk/flaes8.jpg (Zeiss Sollar 135mm))
 
 **Helios 4M 58mm**
-![Helios 4M 58mm](/imgs/flaes_walk/flaes1.jpg (Helios 4M 58mm)) 
-![Helios 4M 58mm](/imgs/flaes_walk/flaes2.jpg (Helios 4M 58mm))
-![Helios 4M 58mm](/imgs/flaes_walk/flaes3.jpg (Helios 4M 58mm))
-![Helios 4M 58mm](/imgs/flaes_walk/flaes4.jpg (Helios 4M 58mm))
-![Helios 4M 58mm](/imgs/flaes_walk/flaes5.jpg (Helios 4M 58mm))
-![Helios 4M 58mm](/imgs/flaes_walk/flaes6.jpg (Helios 4M 58mm))
-![Helios 4M 58mm](/imgs/flaes_walk/flaes7.jpg (Helios 4M 58mm))
-![Helios 4M 58mm](/imgs/flaes_walk/flaes9.jpg (Helios 4M 58mm))
-![Helios 4M 58mm](/imgs/flaes_walk/flaes11.jpg (Helios 4M 58mm))
-![Helios 4M 58mm](/imgs/flaes_walk/flaes10.jpg (Helios 4M 58mm))
+![Helios 4M 58mm]({{< baseurl >}}/imgs/flaes_walk/flaes1.jpg (Helios 4M 58mm)) 
+![Helios 4M 58mm]({{< baseurl >}}/imgs/flaes_walk/flaes2.jpg (Helios 4M 58mm))
+![Helios 4M 58mm]({{< baseurl >}}/imgs/flaes_walk/flaes3.jpg (Helios 4M 58mm))
+![Helios 4M 58mm]({{< baseurl >}}/imgs/flaes_walk/flaes4.jpg (Helios 4M 58mm))
+![Helios 4M 58mm]({{< baseurl >}}/imgs/flaes_walk/flaes5.jpg (Helios 4M 58mm))
+![Helios 4M 58mm]({{< baseurl >}}/imgs/flaes_walk/flaes6.jpg (Helios 4M 58mm))
+![Helios 4M 58mm]({{< baseurl >}}/imgs/flaes_walk/flaes7.jpg (Helios 4M 58mm))
+![Helios 4M 58mm]({{< baseurl >}}/imgs/flaes_walk/flaes9.jpg (Helios 4M 58mm))
+![Helios 4M 58mm]({{< baseurl >}}/imgs/flaes_walk/flaes11.jpg (Helios 4M 58mm))
+![Helios 4M 58mm]({{< baseurl >}}/imgs/flaes_walk/flaes10.jpg (Helios 4M 58mm))
 

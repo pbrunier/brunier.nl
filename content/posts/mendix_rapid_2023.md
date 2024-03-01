@@ -13,4 +13,4 @@ TocOpen: false
 
 I’m happy to share that I have successfully completed my Mendix Rapid Developer certification today, and I’m now gearing up to pursue the next certification in the series.
 
-![Picture of certificate](/imgs/mendix_rapid/mendix_rapid.png)
+![Picture of certificate]({{< baseurl >}}/imgs/mendix_rapid/mendix_rapid.png)
