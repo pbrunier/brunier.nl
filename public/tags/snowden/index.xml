@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Snowden on Patrick Brunier</title>
+    <link>http://localhost:1313/tags/snowden/</link>
+    <description>Recent content in Snowden on Patrick Brunier</description>
+    <image>
+      <title>Patrick Brunier</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/snowden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Black Hat Sessions 2017</title>
+      <link>http://localhost:1313/posts/black_hat_sessions_2017/</link>
+      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/black_hat_sessions_2017/</guid>
+      <description>My thoughts on the BHS 2017</description>
+    </item>
+    <item>
+      <title>What’s next…Pill advertisements? </title>
+      <link>http://localhost:1313/posts/windows10_advertisements/</link>
+      <pubDate>Fri, 10 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/windows10_advertisements/</guid>
+      <description>Users using the latest Windows 10 Creators insider build, are reporting advertisements in the Windows Explorer&amp;hellip;..</description>
+    </item>
+  </channel>
+</rss>
