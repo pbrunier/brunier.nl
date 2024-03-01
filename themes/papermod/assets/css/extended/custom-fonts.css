@@ -1,26 +1,26 @@
 @font-face {
     font-family: 'TilburgsAnsRegular';
-    src: url('/fonts/TilburgsAnsText-WEB/TilburgsAnsText-Regular.woff2') format('woff2');
+    src: url('../../fonts/TilburgsAnsText-WEB/TilburgsAnsText-Regular.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'TilburgsAnsBold';
-    src: url('/fonts/TilburgsAnsText-WEB/TilburgsAnsText-Bold.woff2') format('woff2');
+    src: url('../../fonts/TilburgsAnsText-WEB/TilburgsAnsText-Bold.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'TilburgsAnsLight';
-    src: url('/fonts/TilburgsAnsText-WEB/TilburgsAnsText-Light.woff2') format('woff2');
+    src: url('../../fonts/TilburgsAnsText-WEB/TilburgsAnsText-Light.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'TilburgsAnsItalic';
-    src: url('/fonts/TilburgsAnsText-WEB/TilburgsAnsText-Italic.woff2') format('woff2');
+    src: url('../../fonts/TilburgsAnsText-WEB/TilburgsAnsText-Italic.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'TilburgsAnsIcons';
-    src: url('/fonts/TilburgsAnsIcons123-WEB/TilburgsAnsIcons123.woff2') format('woff2');
+    src: url('../../fonts/TilburgsAnsIcons123-WEB/TilburgsAnsIcons123.woff2') format('woff2');
 }
 
 @media not speech {

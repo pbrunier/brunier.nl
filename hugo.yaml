@@ -48,28 +48,28 @@ params:
   tocopen: false
 
   assets:
-    favicon: "/imgs/patrick_favicon.png"
-    favicon16x16: "/imgs/patrick_favicon16x16.png"
-    favicon32x32: "/imgs/patrick_favicon32x32.png"
-    apple_touch_icon: "/imgs/patrick_apple_touch_icon.png"
-    safari_pinned_tab: "/imgs/patrick_safari_pinned_tab.png"
+    favicon: "imgs/patrick_favicon.png"
+    favicon16x16: "imgs/patrick_favicon16x16.png"
+    favicon32x32: "imgs/patrick_favicon32x32.png"
+    apple_touch_icon: "imgs/patrick_apple_touch_icon.png"
+    safari_pinned_tab: "imgs/patrick_safari_pinned_tab.png"
 
   label:
     text: "Home"
-    icon: "/imgs/patrick_favicon.png"
+    icon: "imgs/patrick_favicon.png"
     iconHeight: 35
 
   profileMode:
     enabled: true # needs to be explicitly set
     title: Patrick Brunier
     subtitle: "Technoid and API addict"
-    imageUrl: "/imgs/patrick.png"
+    imageUrl: "imgs/patrick.png"
     imageWidth: 150
     imageHeight: 150
     imageTitle: My avatar
     buttons:
       - name: About
-        url: /about/
+        url: about
       - name: Posts
         url: posts
 
@@ -104,23 +104,23 @@ menu:
   main:
     - name: about
       name: About
-      url: /about/
+      url: about
       weight: 10
     - name: posts
       name: Posts
-      url: /posts/
+      url: posts
       weight: 10
     - identifier: categories
       name: Categories
-      url: /categories/
+      url: categories
       weight: 30
     - identifier: tags
       name: Tags
-      url: /tags/
+      url: tags
       weight: 40
     - identifier: search
       name: Search
-      url: /search/
+      url: search
       weight: 50
 
 pygmentsUseClasses: true
